@@ -1,0 +1,6 @@
+# WebValidTextFetch
+The valid text extractor from website.
+Algorithm refers to [cx-extractor](https://github.com/rainyear/cix-extractor-py)
+
+##License
+Source code are shared by [License](http://cn.creativecommons.org/licenses/meet-the-licenses/) (by-nc-sa)
